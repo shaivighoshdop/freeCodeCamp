@@ -21,7 +21,7 @@ You can help expand and improve the curriculum. You can also update project user
 
 ## Translations
 
-We are localizing freeCodeCamp.org to major world languages.
+We are localizing freeCodeCamp.org to major world languages. Expnading our reach to millions of coders across the globe.
 
 Certifications are already live in some major world languages like below:
 
